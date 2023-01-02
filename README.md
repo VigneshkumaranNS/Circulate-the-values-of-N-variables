@@ -26,6 +26,7 @@ l = eval(input())
 n = eval(input())
 ```
 
-## Output:circulate.png
+## Output:
+![output12](circulate.png)
 
 ## Result:
