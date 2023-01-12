@@ -6,14 +6,17 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+import def circulate
 ### Step 2: 
+prepare the lists form linear equations
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
+print the value it would be circulated
 ### Step 6: 
+end the program
 ## Program:
 ```
 #Program to circulate N values.
