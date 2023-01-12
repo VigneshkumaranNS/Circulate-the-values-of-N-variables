@@ -5,7 +5,11 @@ To write a python program to circulate the n variables using function concept
 PC
 Anaconda - Python 3.7
 ## Algorithm: 
+<<<<<<< HEAD
 ### Step 1: 
+=======
+### Step 1:
+>>>>>>> 32db2f5 (added)
 import def circulate
 ### Step 2: 
 prepare the lists form linear equations
