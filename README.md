@@ -5,16 +5,8 @@ To write a python program to circulate the n variables using function concept
 PC
 Anaconda - Python 3.7
 ## Algorithm: 
-<<<<<<< HEAD
-### Step 1: 
-=======
 ### Step 1:
-<<<<<<< HEAD
->>>>>>> 32db2f5 (added)
-import def circulate
-=======
 import def circulate.
->>>>>>> dfe4854 (added)
 ### Step 2: 
 prepare the lists form linear equations
 ### Step 3: 
@@ -36,18 +28,9 @@ def circulate():
 l = eval(input())
 n = eval(input())
 ```
+## Output:
+![output12](circulate1.png)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Output:
-![output12](circulate1.png)
-=======
-## Output:[OUTPUT12!](circulate1.png)
->>>>>>> f9ca5d6 (added)
-=======
-## Output:
-![output12](circulate1.png)
->>>>>>> 02817e1 (added)
 
 ## Result:
 Thus the program is exicuted
