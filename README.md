@@ -30,7 +30,7 @@ n = eval(input())
 ```
 
 ## Output:
-![output12](circulate.png)
+![output12](circulate1.png)
 
 ## Result:
 Thus the program is exicuted
