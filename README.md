@@ -33,8 +33,12 @@ l = eval(input())
 n = eval(input())
 ```
 
+<<<<<<< HEAD
 ## Output:
 ![output12](circulate1.png)
+=======
+## Output:[OUTPUT12!](circulate1.png)
+>>>>>>> f9ca5d6 (added)
 
 ## Result:
 Thus the program is exicuted
