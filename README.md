@@ -9,8 +9,12 @@ Anaconda - Python 3.7
 ### Step 1: 
 =======
 ### Step 1:
+<<<<<<< HEAD
 >>>>>>> 32db2f5 (added)
 import def circulate
+=======
+import def circulate.
+>>>>>>> dfe4854 (added)
 ### Step 2: 
 prepare the lists form linear equations
 ### Step 3: 
