@@ -1,4 +1,4 @@
-# Circulate-the-values-of-N-variables
+=# Circulate-the-values-of-N-variables
 ## Aim:
 
 To write a python program to circulate the n variables using function concept
@@ -34,8 +34,8 @@ Print the values after circulation the values
 ## Program:
 ```python
 #Program to circulate N values.
-#Developed by: A.Aruvi
-#RegisterNumber:22001229
+#Developed by: surya sk 
+#RegisterNumber:212222100052
 def circulate():
     circul = l[n:]+l[:n]
     print('After circulating the values are:',circul)
@@ -46,8 +46,7 @@ n=int(input())
 
 ## Output:
 
-![](./nvariables.png)
-
 ## Result:
 Thus the circulation values are successfully executed
 
+ 
