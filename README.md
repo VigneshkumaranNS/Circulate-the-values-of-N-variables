@@ -1,4 +1,4 @@
-=# Circulate-the-values-of-N-variables
+## Circulate-the-values-of-N-variables
 ## Aim:
 
 To write a python program to circulate the n variables using function concept
@@ -45,6 +45,8 @@ n=int(input())
 
 
 ## Output:
+![image](https://user-images.githubusercontent.com/127716537/231049582-73a1b433-5765-4b21-933f-47efb5b38e0b.png)
+
 
 ## Result:
 Thus the circulation values are successfully executed
