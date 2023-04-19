@@ -45,8 +45,9 @@ n=int(input())
 
 
 ## Output:
-![image](https://user-images.githubusercontent.com/127716537/231049582-73a1b433-5765-4b21-933f-47efb5b38e0b.png)
 
+
+![Screenshot 2023-04-19 092622](https://user-images.githubusercontent.com/119484483/232964950-fbac5d23-b4fe-42e3-ac98-90f26fb3f1a3.png)
 
 ## Result:
 Thus the circulation values are successfully executed
